@@ -1,0 +1,128 @@
+body{
+    background-image: url(hpim.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% ;
+    background-attachment: fixed;
+}
+
+.wizwrld{
+    position:absolute;
+    width: 138px;
+    border-radius: 1px;
+    padding: 4px;
+}
+
+#abc{
+    padding: 16px;
+    padding-bottom: 18px;
+    font-size: 1.20em;
+}
+
+.top{
+    border:1px ;
+    margin-right: 135px;
+}
+
+#top{
+    text-align: center; 
+}
+
+.leviosa{
+    text-align: center;
+    margin: auto;
+    font-size: 1.21em;   
+    color: rgb(255, 255, 255);
+    transition: color 1.2s;
+}
+.leviosa:hover{
+    color: rgb(121, 84, 38);
+}
+
+.menu{
+    padding: 16px;
+    border: 4px solid black;
+    border-radius: 8px;
+    background-color:silver;
+}
+
+#menu{
+    width: 100%;
+    font-size: 1.35em;
+}
+
+.menu_{
+    padding: 15px;
+    padding-left: 95px;
+    padding-right: 95px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+.all{
+    padding-left: 17% ;
+    padding-right: 17%;
+    color: white;    
+}
+
+
+.d-inline-block{
+    padding: 6px;
+    border-radius: 40px;
+}
+
+.navbar{
+    background-color: #040f20e1;
+    transition: background-color 1.9s;
+}
+.navbar:hover{
+    background-color: #290216e1;
+}
+
+#dropdown{
+    background-color: #040f20e1;
+    transition: background-color 1.9s;
+}
+#dropdown:hover{
+    background-color: #290216e1;
+}
+
+#dropdown-:hover{
+    background-color: black;
+    border-radius: 0px;
+}
+
+#head{
+    font-size: 1.15em;
+    transition: color 1.4s, font-size 1.4s;
+}
+#head:hover{
+    color: rgb(73, 42, 4);
+    font-size: 1.28em;
+}
+.txt{
+    font-size: 1.13em;
+}
+
+.bottom{
+    font-size: 1.14em;
+    background-color: grey;
+    margin: 0%;
+    padding: 25px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.dtls{
+    padding: 75px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.dtls{
+    color: rgb(28, 84, 156);
+}
+
+a:hover{
+    background-color: rgb(151, 151, 151);
+    border-radius: 22px;
+}
